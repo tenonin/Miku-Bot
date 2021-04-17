@@ -296,4 +296,4 @@ async def on_raw_reaction_add(payload):
         if member is not None:
             await member.add_roles(role)
 
-client.run("ODI0NzAyOTQ3ODc0MTc3MDU0.YFzOeQ.-kDNFilSs2lPW5VrTO9uxNtRpvI")
+client.run("ODI0NzAyOTQ3ODc0MTc3MDU0.YFzOeQ.F4_rbsbPSkVHFk6MybNe_4AXRmw")
