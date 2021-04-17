@@ -1,0 +1,6 @@
+{
+	"token": "Discord Bot Token",
+	"prefix": "?",
+	"key": "RGAPI-1a78aff2-bd4c-43e0-91dd-b68cf9451470",
+	"modules": ["summoners", "champions", "scouter", "matches"]
+}
